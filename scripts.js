@@ -42,7 +42,7 @@ const currencyImage = document.querySelector(".currency-img")
 
 if (currencySelect.value == "dolar"){
     currencyName.innerHTML = "Dólar americano"
-    currencyImage.src = "./assets/usa.png" 
+    currencyImage.src = "./assets/dolar3.png" 
 }
 
 if (currencySelect.value == "euro"){
