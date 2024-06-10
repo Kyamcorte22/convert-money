@@ -47,7 +47,7 @@ if (currencySelect.value == "dolar"){
 
 if (currencySelect.value == "euro"){
     currencyName.innerHTML = "Euro"
-    currencyImage.src = "./assets/euro.png"
+    currencyImage.src = "./assets/euro3.png"
 
 }
 
